@@ -1,0 +1,10 @@
+Ryan Slyter
+rabemensch@gmail.com
+Washington State University Vancouver
+Project: DFS Maze Generator using Java 1.6+
+
+Usage: javac MazeGraph.java
+       java MazeGraph
+
+This program generates a maze using a modified DFS. The values printed correspond to the orientation of all the walls for a given square in the maze. If no specific dimensions are given 16x16 is the default.
+
